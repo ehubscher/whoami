@@ -1,4 +1,11 @@
+# Table of Contents
 
+- [Introduction](#introduction)
+- [My Most Notable "Quirks"](#my-most-notable-quirks)
+  * [Time blindness](#time-blindness)
+  * [Day-dreaming / Pathological Boredom](#day-dreaming-and-pathological-boredom)
+  * [Poor working memory](#poor-working-memory)
+  * [Overwhelm](#overwhelm)
 
 # whoami
 
@@ -51,7 +58,7 @@ __e.g.__
 3. Timers.
 4. Alarms.
 
-### Day-dreaming / Pathological Boredom
+### Day-dreaming and Pathological Boredom
 
 #### What does it *look* like?
 
@@ -118,4 +125,3 @@ __e.g.__
 1. Working with Scrum Master/Squad
 2. Do one extremely small task at a time.
 3. Have only one task in the pipeline. Add one more when the pipeline empties. So that's a *maximum of two* tasks on the Agile Board at any given time.
-
